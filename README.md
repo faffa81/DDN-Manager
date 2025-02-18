@@ -1,3 +1,3 @@
-# DDNet-Manager
+# DDN-Manager
 
-Allows quick access to ddnet
+Allows quick installation to ddnet and other games being added later
